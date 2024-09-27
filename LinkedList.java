@@ -1,5 +1,8 @@
-import java.io.*; 
-  
+// Time Complexity : O(n)
+// Space Complexity : O(n)
+// Did this code successfully run on Leetcode :  I did not find this question on leetcode
+// Any problem you faced while coding this : none
+
 // Java program to implement 
 // a Singly Linked List 
 public class LinkedList { 
